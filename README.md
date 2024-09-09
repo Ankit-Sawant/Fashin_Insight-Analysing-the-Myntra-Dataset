@@ -1,4 +1,5 @@
 # Fashin_Insight-Analysing-the-Myntra-Dataset
+This project analyzes a dataset from Myntra using Python to perform data cleaning, correlation analysis, and visualizations. Key insights include product trends, price distribution, and relationships between variables. Libraries like Pandas, NumPy, Matplotlib, and Seaborn are used for efficient data handling and visualization.
 # Data Analysis Tasks:
 **1. Data Cleaning:**
 
